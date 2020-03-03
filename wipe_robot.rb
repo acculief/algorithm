@@ -1,4 +1,4 @@
-# 再起した
+
 N = 1
 
 def move(log)
